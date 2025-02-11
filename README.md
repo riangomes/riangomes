@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @riangomes
 - 👀 I’m interested in  an internship in software development.
-- 🌱 I’m currently learning JavaScript, Node.js and Database.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate on  in projects with people with experience to be able to learn more and more!
 - 📫 How to reach me  through this github or gmail: riangomes171003gmail.com
 
