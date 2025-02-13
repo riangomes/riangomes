@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @riangomes
-- 👀 I’m interested in  an internship in software development.
-- 🌱 I’m currently learning Java and Python.
-- 💞️ I’m looking to collaborate on  in projects with people with experience to be able to learn more and more!
-- 📫 How to reach me  through this github or gmail: riangomes171003gmail.com
 
-<!---
-riangomes/riangomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, eu sou o Rian Gomes! 👋
+
+
+👨‍💻 Desenvolvedor Back-End |
+
+Sou um desenvolvedor back-end, adoro resolver problemas, aprender novas tecnologias e contribuir para projetos incríveis.
+
+Aqui estão algumas das tecnologias com as quais trabalho:
+
+- Python.
+- Java.
+- PHP
+
+⭐️ Feito por Rian (https://github.com/rian_gomes)
