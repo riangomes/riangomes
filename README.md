@@ -10,6 +10,6 @@ Aqui estão algumas das tecnologias com as quais trabalho:
 
 - Python.
 - Java.
-- PHP
+
 
 ⭐️ Feito por Rian (https://github.com/rian_gomes)
